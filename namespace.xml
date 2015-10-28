@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="namespace.xsl"?>
+
+<AllItems>
+	<aa:item xmlns:aa="food">
+		<aa:title>Onion</aa:title>
+		<aa:colour>Red</aa:colour>
+		<aa:country>UK</aa:country>
+		<aa:company>Onion Inc</aa:company>
+		<aa:price>1.0</aa:price>
+		<aa:size>Large</aa:size>
+	</aa:item>
+
+	<bb:item xmlns:bb="book">
+		<bb:title>Onion</bb:title>
+		<bb:colour>Red</bb:colour>
+		<bb:country>UK</bb:country>
+		<bb:company>ABInc</bb:company>
+		<bb:price>1.0</bb:price>
+		<bb:size>Medium</bb:size>
+	</bb:item>
+</AllItems>
